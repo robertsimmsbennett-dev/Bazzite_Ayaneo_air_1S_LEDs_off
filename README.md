@@ -2,7 +2,7 @@
 
 AYANEO Joystick LED Disable Script when suspended or charging - BAZZITE ONLY
 
-This automated script package is designed to permanently disable the glowing joystick ring LEDs on AYANEO handheld devices running the Bazzite Linux operating system.
+This automated script package is designed to disable the glowing joystick ring LEDs on AYANEO handheld devices running the Bazzite Linux operating system when suspended, or charging.
 What the Fix Does
 
     Immediate LED Disable: Forces the active hardware brightness attribute for the joystick rings to zero (0), shutting off the lights instantly.

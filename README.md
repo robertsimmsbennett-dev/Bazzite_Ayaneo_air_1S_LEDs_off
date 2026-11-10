@@ -19,7 +19,7 @@ Operating System
 How to Run This
 Method 1: Using the Terminal (Fastest & Most Reliable)
 
-od 1: Using the Terminal (Fastest & Most Reliable)
+Download the small script from the assets page
 
 Switch to Desktop Mode and open the Konsole terminal.
 

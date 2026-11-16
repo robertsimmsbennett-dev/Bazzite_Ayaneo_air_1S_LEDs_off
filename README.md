@@ -1,4 +1,4 @@
-# Bazzite_Ayaneo_air_1S_LEDs_off
+# Suspend LED control on Ayaneo devices
 
 AYANEO Joystick LED Disable Script when suspended or charging - BAZZITE ONLY
 
